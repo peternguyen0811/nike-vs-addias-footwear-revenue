@@ -1,4 +1,7 @@
-brand,fiscal_year,revenue_millions,currency
-Nike,2023,33135,USD
-Nike,2024,33427,USD
-Nike,2025,29510,USD
+brand,fiscal_year,revenue_usd_millions
+Nike,2023,33135
+Nike,2024,33427
+Nike,2025,29510
+Adidas,2023,13070.88
+Adidas,2024,15119.95
+Adidas,2025,16090.70
